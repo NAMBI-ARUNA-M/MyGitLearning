@@ -4,5 +4,7 @@ public class DevClass {
     public static void main(String[] args) {
         System.out.println("DevClass");
         //Hello
+        //Hi Everyone
+        //Java program
     }
 }
